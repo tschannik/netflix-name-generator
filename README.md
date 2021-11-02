@@ -1,4 +1,4 @@
-# Getting Started with netflix-name-generator
+# Getting Started with netflix-name-generator :)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
